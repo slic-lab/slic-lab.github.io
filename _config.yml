@@ -1,0 +1,59 @@
+# site settings
+title: SLIC
+subtitle: ' &nbsp; | &nbsp; Sherbrooke Laboratory for Integrative Connectomics'
+email: sara.lariviere@usherbrooke.ca
+description: |
+  <p style="text-transform: none; font-weight: normal; text-align: center; letter-spacing: 0.28px; font-size: 18px;">
+  <br><br><br><br><br><br><br><br><br><b>Welcome! </b><br><br>
+  
+  We are the Sherbrooke Laboratory for Integrative Connectomics (SLIC) 
+  and are located in the Pavillon de santé de précision et de recherche translationnelle 
+  on the health campus of the Universite de Sherbrooke.<br><br>
+  
+  Our research combines neuroimaging, 
+  computational statistics, machine learning, and pipeline development to deepen our understanding 
+  of the human brain. 
+  
+  We develop and apply neuroinformatics and data science methods to study typical and atypical brain 
+  development, aiming to improve personalized prognostics and treatment, and ultimately, influence public health policies.
+  </p>
+baseurl: "/slic" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author: Sara Larivière
+street_address: 3001, 12e Avenue Nord
+city: Sherbrooke
+state: QC
+zip_code: J1H 5N4
+country: Canada
+# phone:
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 4
+
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+  GitHub: https://github.com/slic-lab
+  GitLab:
+  Instagram:
+  LinkedIn: https://www.linkedin.com/in/saratheriver/
+  Twitter: https://twitter.com/saratheriver
+  Facebook: https://www.facebook.com/CRCHUS
+  Slack:
+  Youtube: https://www.youtube.com/@new-epilepsy
+  Google-Scholar: https://scholar.google.ca/citations?user=Fet1xBYAAAAJ&hl=en
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md 
