@@ -17,8 +17,8 @@ description: |
   We develop and apply neuroinformatics and data science methods to study typical and atypical brain 
   development, aiming to improve personalized prognostics and treatment, and ultimately, influence public health policies.
   </p>
-baseurl: "/slic" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://slic-lab.github.io" # the base hostname & protocol for your site
 author: Sara Larivière
 street_address: 3001, 12e Avenue Nord
 city: Sherbrooke
