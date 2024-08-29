@@ -78,6 +78,7 @@ description2: 'We are always looking for talented and enthusiastic trainees to j
 				<b style="color: #ffffff;">Sami Obaid</b> (<i><a href="https://www.chumontreal.qc.ca/en/crchum/chercheurs/sami-obaid" target="_blank">Centre hospitalier de l'Université de Montréal, Canada)</a></i><br>
 				<b style="color: #ffffff;">Pascal Tétreault</b> (<i><a href="https://www.tetreaultlab.com/pascal" target="_blank">Tétreault Pain Imaging Lab, Université de Sherbrooke, Canada)</a></i><br>
 				<b style="color: #ffffff;">Zhiqiang Zhang</b> (<i><a href="https://med.nju.edu.cn/medenglish/69/2d/c55101a616749/page.htm" target="_blank">Nanjing University, China)</a></i><br>
+				<b style="color: #ffffff;">Frederic Schaper</b> (<i><a href="https://med.nju.edu.cn/medenglish/69/2d/c55101a616749/page.htm" target="_blank">Epilepsy Network Mapping, Harvard Medical School, USA)</a></i><br>
 				</p>
 			</div>
 		</div>

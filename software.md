@@ -1,7 +1,7 @@
 ---
 layout: software
 title: Software
-image: assets/images/software2.jpg
+image: assets/images/software3.jpg
 nav-menu: true
 ---
 
