@@ -5,6 +5,7 @@ image: assets/images/team2.jpg
 nav-menu: true
 description2: 'We are always looking for talented and enthusiastic trainees to join our lab!
 			If you are interested in joining, please <a href="mailto:sara.lariviere@usherbrooke.ca">email us</a> your CV and a cover letter!'
+weight: 3
 ---
 
 <!-- Main -->

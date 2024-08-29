@@ -3,6 +3,7 @@ layout: software
 title: Software
 image: assets/images/software3.jpg
 nav-menu: true
+weight: 2
 ---
 
 <!-- Main -->
