@@ -14,7 +14,6 @@ weight: 6
 	<div class="inner" >
         <p>
         Sherbrooke Laboratory for Integrative Connectomics<br>
-        Z10.2024<br>
         Pavillon de santé de précision et de recherche translationnelle (PSPRT)<br>
         Centre de recherche du CHUS<br>
         Université de Sherbrooke<br>
