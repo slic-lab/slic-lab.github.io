@@ -29,6 +29,7 @@ weight: 3
 			</div>
 		</div>
 	</section>
+	<!--
 	<section>
 		<a href="team.html" class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
@@ -61,6 +62,7 @@ weight: 3
 			</div>
 		</div>
 	</section>
+	-->
 	<section>
 		<a href="team.html" class="image">
 			<img src="{% link assets/images/collaborators.jpg %}" alt="" data-position="25% 25%" />

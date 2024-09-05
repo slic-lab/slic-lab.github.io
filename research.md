@@ -44,7 +44,7 @@ weight: 1
 		<h3 style="color: #005F32; font-weight: normal;"><i>Neuroimaging of Epilepsy Worldwide</i></h3>
 		<p>The Neuroimaging ofEpilepsy Worldwide (<a href="https://new-epilepsy.com/" target="_blank">NEW</a>) initiative is a platform for trainees, researchers, and clinicians interested in learning, sharing, and building their careers in neuroimaging of epilepsy. Their primary goal is to provide a community composed of early career researchers (ECRs) and established researchers to facilitate networking, collaboration, and mentorship amongst members.</p>
         <div style="text-align: center;">
-            <img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6444904/bin/fig-1.jpg" alt="" style="width: 38%; height: auto;"/>
+            <img src="{% link assets/images/new-members.png %}" alt="" style="width: 93%; height: auto;"/>
         </div>
 	</div>
 </div>
@@ -58,7 +58,7 @@ weight: 1
 <p>With onsets often in childhood, developmental transitions from early childhood through adolescence are sensitive periods for several disorders, including epilepsy. Our research focuses on the dynamic development of cognitive brain networks and the factors that influence them during brain development. Our goals are to (1) map the developmental trajectory of cognitive brain networks, (2) identify stages most vulnerable to environmental and intrinsic influences, and (3) develop predictive markers of developmental cognitive (dys)function.</p>
 <p style="color: #777777; margin-top: -28px; font-size: medium"> For more details, see our publications on <i><a href="https://pubmed.ncbi.nlm.nih.gov/?term=%28Lariviere+Sara%5Bau%5D%29+AND+development&sort=date&size=100" target="_blank">brain development</a></i> </p>
 <div style="text-align: center;">
-    <img src="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/cercor/30/1/10.1093_cercor_bhz069/2/bhz069f2.jpeg?Expires=1728136809&Signature=UMCmdfLd0BVhxbAuWmQzx~GaXhyS5Sz2hwzruaOY2R9fGfrrWHp4tCywGu1HKFO4KDRE1jsHnZcBETStEN0IqoXxgI31MLeW~1aIlFmNdQiu9lEmuYz-ZW8C~-gxJEixOBaCyYlFzy1azzjOeVinHRUiN-YCsv-ssM3dOs~2lZ8ShpOWFZICxFtfRhMKe5EgG8JiFDhq4gfOfZAOPgk4kVCiABwJWB-uW6sCAMSrB4iC9YdBpqMjscm3tEUxzGbbBdvDeTIVmbJH61FnN0rbHyu2~sWvMc3nUT2m5A7jV-kXDc7ddgtPGmSpWc6Eqoft4bnv7MnKAs6grEhhkJTarQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="" style="width: 66%; height: auto;"/>
+    <img src="{% link assets/images/babygradients.jpg %}" alt="" style="width: 66%; height: auto;"/>
 </div>
 <hr class="major" />
 
