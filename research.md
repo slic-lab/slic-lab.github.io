@@ -22,7 +22,7 @@ weight: 1
 
 <p style="color: #777777; margin-top: -28px; font-size: medium"> For more details, see our publications on <i><a href="https://pubmed.ncbi.nlm.nih.gov/?term=%28Lariviere+Sara%5Bau%5D%29+AND+multiscale&sort=date&size=100" target="_blank">multiscale neuroscience</a></i> </p>
 <div style="text-align: center;">
-    <img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6444904/bin/fig-1.jpg" alt="" style="width: 38%; height: auto;"/>
+    <img src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a1d0/6444904/a07fef08cbec/fig-1.jpg" alt="" style="width: 38%; height: auto;"/>
 </div>
 
 <!-- Theme 2 -->

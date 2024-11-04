@@ -29,23 +29,23 @@ weight: 3
 			</div>
 		</div>
 	</section>
-	<!--
 	<section>
 		<a href="team.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/lauren_hart.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Trainee 1</h3>
+					<h3>Lauren Hart, BA</h3>
 				</header>
-				<p style="color: #ffffff;">Academic position <br> 
-				Department <br> 
-				<a href="mailto:email@usherbrooke.ca">email@usherbrooke.ca</a>
+				<p style="color: #ffffff;">MSc student <br> 
+				Radiation sciences and biomedical imaging<br> 
+				<a href="mailto:lhart5@bwh.harvard.edu">lhart5@bwh.harvard.edu</a>
 				</p>
 			</div>
 		</div>
 	</section>
+	<!--
 	<section>
 		<a href="team.html" class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
