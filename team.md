@@ -63,6 +63,38 @@ weight: 3
 	</section>
 	<section>
 		<a href="team.html" class="image">
+			<img src="{% link assets/images/mirana.jpg %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Mirana Iliza</h3>
+				</header>
+				<p style="color: #ffffff;">Intern (BA student)<br> 
+				Psychology/Preclinical Psychology, Bishop's University<br> 
+				<a href="mailto:MILIZA24@UBishops.ca">MILIZA24@UBishops.ca</a>
+				</p>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="team.html" class="image">
+			<img src="{% link assets/images/ariane.jpg %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Ariane Kek-Laflamme</h3>
+				</header>
+				<p style="color: #ffffff;">Intern (BSc student)<br> 
+				Pharmacology<br> 
+				<a href="mailto:Ariane.Kek-Laflamme@USherbrooke.ca">Ariane.Kek-Laflamme@USherbrooke.ca</a>
+				</p>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="team.html" class="image">
 			<img src="{% link assets/images/collaborators.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
