@@ -31,6 +31,22 @@ weight: 3
 	</section>
 	<section>
 		<a href="team.html" class="image">
+			<img src="{% link assets/images/kassem.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Kassem Seifeldine, MSc</h3>
+				</header>
+				<p style="color: #ffffff;">PhD student <br> 
+				Radiation sciences and biomedical imaging<br> 
+				<a href="mailto:Kassem.Seifeldine@USherbrooke.ca">kassem.seifeldine@usherbrooke.ca</a>
+				</p>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="team.html" class="image">
 			<img src="{% link assets/images/lauren_hart.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -87,7 +103,8 @@ weight: 3
 					<h3>Ariane Kek-Laflamme</h3>
 				</header>
 				<p style="color: #ffffff;">Intern (BSc student)<br> 
-				Pharmacology<br> 
+				Pharmacology<br>
+				<i> ✨ Funded by the Association Québécoise de l'Épilepsie (AQE)</i><br> 
 				<a href="mailto:Ariane.Kek-Laflamme@USherbrooke.ca">Ariane.Kek-Laflamme@USherbrooke.ca</a>
 				</p>
 			</div>
