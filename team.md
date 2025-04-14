@@ -103,7 +103,8 @@ weight: 3
 					<h3>Mirana Iliza</h3>
 				</header>
 				<p style="color: #ffffff;">Intern (BA student)<br> 
-				Psychology/Preclinical Psychology, Bishop's University<br> 
+				Psychology/Preclinical Psychology, Bishop's University<br>
+				<i> ✨ Funded by CIHR</i><br>  
 				<a href="mailto:MILIZA24@UBishops.ca">MILIZA24@UBishops.ca</a>
 				</p>
 			</div>
