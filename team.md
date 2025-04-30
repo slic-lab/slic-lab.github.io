@@ -56,6 +56,7 @@ weight: 3
 				</header>
 				<p style="color: #ffffff;">MSc student <br> 
 				Radiation sciences and biomedical imaging<br> 
+				<i> ✨ Funded by FRQS</i><br> 
 				<a href="mailto:lauren.hart@usherbrooke.ca">Lauren.Hart@USherbrooke.ca</a>
 				</p>
 			</div>
