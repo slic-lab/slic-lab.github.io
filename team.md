@@ -96,6 +96,22 @@ weight: 3
 	</section>
 	<section>
 		<a href="team.html" class="image">
+			<img src="{% link assets/images/nicolas.jpeg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Nicolas Pokora, BSc</h3>
+				</header>
+				<p style="color: #ffffff;">MSc student <br> 
+				Radiation sciences and biomedical imaging<br> 
+				<a href="mailto:Nicolas.Pokora@USherbrooke.ca">Nicolas.Pokora@USherbrooke.ca</a>
+				</p>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="team.html" class="image">
 			<img src="{% link assets/images/helene_cr.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
