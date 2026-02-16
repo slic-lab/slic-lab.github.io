@@ -105,6 +105,7 @@ weight: 3
 				</header>
 				<p style="color: #ffffff;">MSc student <br> 
 				Radiation sciences and biomedical imaging<br> 
+				<i> ✨ Funded by AIM/CIMUS</i><br>  
 				<a href="mailto:Binh.Thanh.Nguyen@USherbrooke.ca">Binh.Thanh.Nguyen@USherbrooke.ca</a>
 				</p>
 			</div>
