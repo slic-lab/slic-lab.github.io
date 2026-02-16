@@ -36,7 +36,7 @@ weight: 3
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Marvin Penault, Master 2 (M2)</h3>
+					<h3>Marvin Penault, MSc</h3>
 				</header>
 				<p style="color: #ffffff;">PhD student <br> 
 				Radiation sciences and biomedical imaging<br> 
