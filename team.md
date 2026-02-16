@@ -243,7 +243,7 @@ weight: 3
 				<b style="color: #ffffff;">Zhiqiang Zhang</b> (<i><a href="https://med.nju.edu.cn/medenglish/69/2d/c55101a616749/page.htm" target="_blank">Nanjing University, China)</a></i><br>
 				<b style="color: #ffffff;">Frederic Schaper</b> (<i><a href="https://med.nju.edu.cn/medenglish/69/2d/c55101a616749/page.htm" target="_blank">Epilepsy Network Mapping, Harvard Medical School, USA)</a></i><br>
 				<b style="color: #ffffff;">Kevin Whittingstall</b> (<i><a href="https://www.usherbrooke.ca/recherche/fr/specialistes/details/kevin.whittingstall" target="_blank">Université de Sherbrooke, Canada)</a></i><br>
-				<b style="color: #ffffff;">Aris Hadjinicolaou</b> (<i><a href="https://recherche.chusj.org/fr/Axes-de-recherche/Bio?id=78f4c41c-7908-47b7-a441-a2891eac19a5" target="_blank">Chu Sainte-Justine, Université de Montréal, Canada)</a></i><br>
+				<b style="color: #ffffff;">Aris Hadjinicolaou</b> (<i><a href="https://recherche.chusj.org/fr/Axes-de-recherche/Bio?id=78f4c41c-7908-47b7-a441-a2891eac19a5" target="_blank">CHU Sainte-Justine, Université de Montréal, Canada)</a></i><br>
 				<b style="color: #ffffff;">Christian Iorio-Morin</b> (<i><a href="https://www.usherbrooke.ca/recherche/fr/specialistes/details/christian.iorio-morin" target="_blank">Université de Sherbrooke, Canada)</a></i><br>
 				<b style="color: #ffffff;">Jean-François Lepage</b> (<i><a href="https://www.usherbrooke.ca/recherche/fr/specialistes/details/jean-francois.lepage" target="_blank">Université de Sherbrooke, Canada)</a></i><br>
 				</p>
