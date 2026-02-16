@@ -24,7 +24,7 @@ weight: 5
                 <div class="2u" style="min-width: 100px; margin: 0 20px;"><span class="image fit"><img src="{% link assets/images/crc.jpg %}" alt="" /></span></div>
                 <div class="2u$" style="min-width: 100px; margin: 0 20px;"><span class="image fit"><img src="{% link assets/images/nserc.png %}" alt="" /></span></div>
                 <div style="flex-basis: 100%; height: 0;"></div>
-                <div class="2u" style="min-width: 100px; margin: 0 20px;"><span class="image fit"><img src="{% link assets/images/frp.png %}" alt="" /></span></div>
+                <div class="2u" style="min-width: 100px; margin: 0 20px;"><span class="image fit"><img src="{% link assets/images/frp.jpg %}" alt="" /></span></div>
             </div>
         </div>
     </div>
