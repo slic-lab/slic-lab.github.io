@@ -31,6 +31,38 @@ weight: 3
 	</section>
 	<section>
 		<a href="team.html" class="image">
+			<img src="{% link assets/images/marvin.jpeg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Marvin Penault, Master 2 (M2)</h3>
+				</header>
+				<p style="color: #ffffff;">PhD student <br> 
+				Radiation sciences and biomedical imaging<br> 
+				<a href="mailto:Marvin.Penault@USherbrooke.ca">Marvin.Penault@USherbrooke.ca</a>
+				</p>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="team.html" class="image">
+			<img src="{% link assets/images/tudor.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Tudor Sintu, MSc</h3>
+				</header>
+				<p style="color: #ffffff;">PhD student <br> 
+				Radiation sciences and biomedical imaging<br> 
+				<a href="mailto:Tudor.Sintu@USherbrooke.ca">Tudor.Sintu@USherbrooke.ca</a>
+				</p>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="team.html" class="image">
 			<img src="{% link assets/images/kassem.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
