@@ -14,10 +14,6 @@ weight: 1
 <section id="one">
 	<div class="inner">
 
-<div style="text-align: center;">
-    <img src="{% link assets/images/research-themes.png %}" alt="" style="width: 38%; height: auto;"/>
-</div>
-
 <!-- Theme 1 -->
 <h2 id="content" style="color: #005F32; display: inline-block; margin-right: 10px;">Theme 1</h2>
 <h2 id="content" style="color: #005F32; font-weight: normal; display: inline-block;">&nbsp; | &nbsp; Multiscale investigations of the human brain</h2>
