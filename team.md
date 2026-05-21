@@ -63,7 +63,7 @@ weight: 3
 	</section>
 		<section>
 		<a href="team.html" class="image">
-			<img src="{% link assets/images/tudor.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/sabrina.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
