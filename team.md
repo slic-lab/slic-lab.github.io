@@ -61,6 +61,22 @@ weight: 3
 			</div>
 		</div>
 	</section>
+		<section>
+		<a href="team.html" class="image">
+			<img src="{% link assets/images/tudor.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Sabrina Bouchard, MSc</h3>
+				</header>
+				<p style="color: #ffffff;">PhD student <br> 
+				Radiation sciences and biomedical imaging<br> 
+				<a href="mailto:Sabrina.Bouchard3@USherbrooke.ca">Sabrina.Bouchard3@USherbrooke.ca</a>
+				</p>
+			</div>
+		</div>
+	</section>
 	<section>
 		<a href="team.html" class="image">
 			<img src="{% link assets/images/kassem.jpg %}" alt="" data-position="center center" />
