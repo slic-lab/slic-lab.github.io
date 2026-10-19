@@ -5,7 +5,7 @@ image: assets/images/team2.jpg
 nav-menu: true
 description2: 'We are always looking for talented and enthusiastic trainees to join our lab!
 			If you are interested in joining, please <a href="mailto:sara.lariviere@usherbrooke.ca">email us</a> your CV and your grade transcript!'
-weight: 3
+weight: 4
 ---
 
 <!-- Main -->
@@ -40,6 +40,7 @@ weight: 3
 				</header>
 				<p style="color: #ffffff;">PhD student <br> 
 				Radiation sciences and biomedical imaging<br> 
+				<i> ✨ Funded by AIM/CIMUS and the Faculty of Medicine and Health Sciences</i><br> 
 				<a href="mailto:Marvin.Penault@USherbrooke.ca">Marvin.Penault@USherbrooke.ca</a>
 				</p>
 			</div>
@@ -56,6 +57,7 @@ weight: 3
 				</header>
 				<p style="color: #ffffff;">PhD student <br> 
 				Radiation sciences and biomedical imaging<br> 
+				<i> ✨ Funded by AIM/CIMUS</i><br> 
 				<a href="mailto:Tudor.Sintu@USherbrooke.ca">Tudor.Sintu@USherbrooke.ca</a>
 				</p>
 			</div>
@@ -72,6 +74,7 @@ weight: 3
 				</header>
 				<p style="color: #ffffff;">PhD student <br> 
 				Radiation sciences and biomedical imaging<br> 
+				<i> ✨ Funded by AIM/CIMUS and the Centre d'Excellence de l'UdeS en recherche Mère-Enfant (CREME)</i><br> 
 				<a href="mailto:Sabrina.Bouchard3@USherbrooke.ca">Sabrina.Bouchard3@USherbrooke.ca</a>
 				</p>
 			</div>
@@ -138,6 +141,7 @@ weight: 3
 				</header>
 				<p style="color: #ffffff;">MSc student <br> 
 				Radiation sciences and biomedical imaging<br> 
+				<i> ✨ Funded by AIM/CIMUS</i><br> 
 				<a href="mailto:Frederic.Nicolas@USherbrooke.ca">Frederic.Nicolas@USherbrooke.ca</a>
 				</p>
 			</div>

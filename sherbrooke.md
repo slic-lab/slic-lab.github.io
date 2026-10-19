@@ -4,7 +4,7 @@ title: Sherbrooke
 description: 
 image: assets/images/sherbrooke.jpg
 nav-menu: true
-weight: 4
+weight: 5
 ---
 <!-- Main -->
 <div id="main" class="alt">

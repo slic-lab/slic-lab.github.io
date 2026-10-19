@@ -4,7 +4,7 @@ title: Funding
 description: 
 image: assets/images/funding.jpg
 nav-menu: true
-weight: 5
+weight: 6
 ---
 
 <!-- Main -->
