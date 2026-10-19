@@ -1,0 +1,72 @@
+/* Resources */
+
+	.resources-list {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+
+		li {
+			border-top: solid 1px rgba(0, 95, 50, 0.25);
+			display: grid;
+			gap: 0 1.5em;
+			grid-template-columns: 5.5em 1fr;
+			padding: 2em 0;
+
+			&:last-child {
+				border-bottom: solid 1px rgba(0, 95, 50, 0.25);
+			}
+		}
+
+		p {
+			margin: 0;
+		}
+
+		.res-num {
+			color: #005F32;
+			font-family: "Newsreader", Georgia, serif;
+			font-size: 3.2em;
+			font-style: italic;
+			line-height: 1;
+		}
+
+		.res-kind {
+			color: #777777;
+			font-size: 0.7em;
+			font-weight: 600;
+			letter-spacing: 0.2em;
+			margin: 0 0 0.4em 0;
+			text-transform: uppercase;
+		}
+
+		.res-authors {
+			color: #777777;
+			font-size: 0.85em;
+			margin-bottom: 0.6em;
+		}
+
+		@include breakpoint(small) {
+			li {
+				grid-template-columns: 1fr;
+			}
+
+			.res-num {
+				font-size: 2.4em;
+				margin-bottom: 0.3em;
+			}
+		}
+	}
+
+	#main .resources-list h3 {
+		color: #005F32;
+		font-family: "Newsreader", Georgia, serif;
+		font-size: 1.6em;
+		font-weight: 400;
+		letter-spacing: 0;
+		margin: 0 0 0.4em 0;
+		text-transform: none;
+
+		a {
+			border-bottom: none;
+			color: #005F32;
+		}
+	}

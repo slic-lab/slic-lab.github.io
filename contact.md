@@ -4,7 +4,7 @@ title: Contact
 description: 
 image: assets/images/contact.jpg
 nav-menu: true
-weight: 6
+weight: 7
 ---
 <!-- Main -->
 <div id="main" class="alt">
