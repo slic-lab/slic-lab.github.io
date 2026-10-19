@@ -40,6 +40,7 @@ weight: 4
 				</header>
 				<p style="color: #ffffff;">PhD student <br> 
 				Radiation sciences and biomedical imaging<br> 
+				<i> ✨ Funded by AIM/CIMUS and the Faculty of Medicine and Health Sciences</i><br> 
 				<a href="mailto:Marvin.Penault@USherbrooke.ca">Marvin.Penault@USherbrooke.ca</a>
 				</p>
 			</div>
@@ -56,6 +57,7 @@ weight: 4
 				</header>
 				<p style="color: #ffffff;">PhD student <br> 
 				Radiation sciences and biomedical imaging<br> 
+				<i> ✨ Funded by AIM/CIMUS</i><br> 
 				<a href="mailto:Tudor.Sintu@USherbrooke.ca">Tudor.Sintu@USherbrooke.ca</a>
 				</p>
 			</div>
@@ -72,6 +74,7 @@ weight: 4
 				</header>
 				<p style="color: #ffffff;">PhD student <br> 
 				Radiation sciences and biomedical imaging<br> 
+				<i> ✨ Funded by AIM/CIMUS and the Centre d'Excellence de l'UdeS en recherche Mère-Enfant (CREME)</i><br> 
 				<a href="mailto:Sabrina.Bouchard3@USherbrooke.ca">Sabrina.Bouchard3@USherbrooke.ca</a>
 				</p>
 			</div>
@@ -138,6 +141,7 @@ weight: 4
 				</header>
 				<p style="color: #ffffff;">MSc student <br> 
 				Radiation sciences and biomedical imaging<br> 
+				<i> ✨ Funded by AIM/CIMUS</i><br> 
 				<a href="mailto:Frederic.Nicolas@USherbrooke.ca">Frederic.Nicolas@USherbrooke.ca</a>
 				</p>
 			</div>
