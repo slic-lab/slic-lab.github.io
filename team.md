@@ -247,6 +247,22 @@ weight: 4
 	</section>
 	<section>
 		<a href="team.html" class="image">
+			<img src="{% link assets/images/adam.jpg %}" alt="" data-position="center 35%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Adam Li</h3>
+				</header>
+				<p style="color: #ffffff;">Intern (Med student)<br> 
+				Faculté de médecine et des sciences de la santé<br>
+				<a href="mailto:Adam.Li@USherbrooke.ca">Adam.Li@USherbrooke.ca</a>
+				</p>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="team.html" class="image">
 			<img src="{% link assets/images/collaborators.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
