@@ -14,7 +14,9 @@ weight: 3
 	<div class="inner">
 
 <!-- Content -->
-<p>A selection of resources produced by our lab, including publications, websites, and other material, can be found below.</p><br>
+<p>A selection of resources produced by our lab, including publications, websites, media appearances, and other material, can be found below.</p><br>
+<!-- Research outputs -->
+<h2 id="outputs" style="color: #005F32; font-weight: normal; display: inline-block;">Research outputs</h2>
 <ul class="resources-list">
 	<li>
 		<span class="res-num">01</span>
@@ -76,6 +78,43 @@ weight: 3
 			<p class="res-kind">Website &nbsp;·&nbsp; Interactive questionnaire</p>
 			<h3><a href="https://slic-lab.github.io/epilepsy-surgery/" target="_blank">Beliefs about epilepsy surgery among patients and caregivers in Québec</a></h3>
 			<p>An interactive demonstration of our questionnaire on beliefs about epilepsy surgery, with readability figures for the patient and caregiver versions and information resources for patients and caregivers.</p>
+		</div>
+	</li>
+</ul>
+<br>
+<!-- Media & outreach -->
+<h2 id="media" style="color: #005F32; font-weight: normal; display: inline-block;">Media &amp; outreach</h2>
+<ul class="resources-list">
+	<li>
+		<span class="res-num">01</span>
+		<div>
+			<p class="res-kind">Podcast &nbsp;·&nbsp; MICROSCOPE, Fondation de la recherche pédiatrique &nbsp;·&nbsp; January 2026 &nbsp;·&nbsp; In French</p>
+			<h3><a href="https://youtu.be/i0EPMO3YpV4" target="_blank">Microscope Ep. 5 – Épilepsie chez l’enfant : le combat de Léo et les avancées de la recherche</a></h3>
+			<p>A podcast episode on childhood epilepsy, following Léo’s story and recent advances in research.</p>
+		</div>
+	</li>
+	<li>
+		<span class="res-num">02</span>
+		<div>
+			<p class="res-kind">Podcast &nbsp;·&nbsp; The Abstract, ZagroScience &nbsp;·&nbsp; December 2025</p>
+			<h3><a href="https://www.youtube.com/watch?v=WhzdFqZiyds" target="_blank">The Abstract – Episode 2: Dr. Sara Larivière</a></h3>
+			<p>A podcast episode featuring Prof. Sara Larivière and her research on the brain in epilepsy.</p>
+		</div>
+	</li>
+	<li>
+		<span class="res-num">03</span>
+		<div>
+			<p class="res-kind">Radio &nbsp;·&nbsp; Par ici l’info, Radio-Canada &nbsp;·&nbsp; November 2025 &nbsp;·&nbsp; In French</p>
+			<h3><a href="https://ici.radio-canada.ca/ohdio/premiere/emissions/Par-ici-l-info/segments/rattrapage/2233985/combat-une-vie-contre-epilepsie" target="_blank">Le combat d’une vie contre l’épilepsie</a></h3>
+			<p>A radio segment on living with epilepsy and the research carried out in Sherbrooke.</p>
+		</div>
+	</li>
+	<li>
+		<span class="res-num">04</span>
+		<div>
+			<p class="res-kind">Article &nbsp;·&nbsp; Radio-Canada Info &nbsp;·&nbsp; November 2025 &nbsp;·&nbsp; In French</p>
+			<h3><a href="https://ici.radio-canada.ca/nouvelle/2209322/epilepsie-chaire-recherche-traitement-universite-sherbrooke" target="_blank">L’épilepsie sous la loupe d’une chercheuse estrienne</a></h3>
+			<p>A news article on Prof. Sara Larivière’s Canada Research Chair and her epilepsy research at the Université de Sherbrooke.</p>
 		</div>
 	</li>
 </ul>
