@@ -55,6 +55,24 @@ weight: 3
 	<li>
 		<span class="res-num">05</span>
 		<div>
+			<p class="res-kind">Registered protocol &nbsp;·&nbsp; PROSPERO &nbsp;·&nbsp; 2025</p>
+			<h3><a href="https://www.crd.york.ac.uk/PROSPERO/view/CRD420251072105" target="_blank">Impacts of pharmacological antiseizure treatments on the human brain in epilepsy: A systematic review</a></h3>
+			<p class="res-authors"><b>Kek-Laflamme A</b>, Mohamad T, <b>Turcotte A</b>, <b>Zahka WG</b>, Royer J, … Lepage JF, <b>Larivière S</b></p>
+			<p>Registered protocol for a systematic review of the effects of pharmacological antiseizure treatments on the human brain in people with epilepsy.</p>
+		</div>
+	</li>
+	<li>
+		<span class="res-num">06</span>
+		<div>
+			<p class="res-kind">Registered protocol &nbsp;·&nbsp; OSF Registries &nbsp;·&nbsp; 2025</p>
+			<h3><a href="https://doi.org/10.17605/OSF.IO/UKRMT" target="_blank">MRI in the surgical management of temporal lobe epilepsy: A scoping review across decades</a></h3>
+			<p class="res-authors"><b>Zahka WG</b>, <b>Turcotte A</b>, <b>Kek-Laflamme A</b>, Mohamad T, <b>Cossette-Roberge H</b>, … Iorio-Morin C, <b>Larivière S</b></p>
+			<p>Registered protocol for a scoping review of how MRI has been used in the surgical management of temporal lobe epilepsy over the past decades.</p>
+		</div>
+	</li>
+	<li>
+		<span class="res-num">07</span>
+		<div>
 			<p class="res-kind">Website &nbsp;·&nbsp; Interactive questionnaire</p>
 			<h3><a href="https://slic-lab.github.io/epilepsy-surgery/" target="_blank">Beliefs about epilepsy surgery among patients and caregivers in Québec</a></h3>
 			<p>An interactive demonstration of our questionnaire on beliefs about epilepsy surgery, with readability figures for the patient and caregiver versions and information resources for patients and caregivers.</p>
